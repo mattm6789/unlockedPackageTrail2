@@ -1,0 +1,28 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "DreamhouseLWC",
+      "versionName": "Spring '25",
+      "versionNumber": "63.0.0.NEXT"
+    },
+    {
+      "versionName": "ver 1.0",
+      "versionNumber": "1.0.0.NEXT",
+      "path": "force-app",
+      "default": false,
+      "package": "th-dreamhouse",
+      "versionDescription": "My DreamHouse Package"
+    }
+  ],
+  "namespace": "",
+  "sourceApiVersion": "63.0",
+  "packageAliases": {
+    "DreamhouseLWC": "0Ho3h000000PBghCAG",
+    "DreamhouseLWC@61.0.0-4": "04tKY000000LP3aYAG",
+    "DreamhouseLWC@63.0.0-1": "04tKY000000LRJJYA4",
+    "th-dreamhouse": "0Hobm0000000NZJCA2",
+    "th-dreamhouse@1.0.0-1": "04tbm0000006s49AAA"
+  }
+}
