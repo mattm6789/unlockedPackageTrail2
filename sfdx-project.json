@@ -8,10 +8,10 @@
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
       "path": "unlocked-packages",
-      "default": false,
       "package": "Customer Account Fields",
       "versionDescription": ""
     }
+
   ],
   "name": "UnlockedPackageTrail",
   "namespace": "",
